@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="agua-luz-atracao-old/src/main/java"/>
+	<classpathentry kind="src" path="agua-luz-atracao/src/main/java"/>
+	<classpathentry kind="src" path="agua-luz-core/src/main/java"/>
+	<classpathentry kind="src" path="agua-luz-notificacao/src/main/java"/>
+	<classpathentry kind="src" path="colecoes/src"/>
+	<classpathentry kind="src" path="java-jdbc-aluno/src/main/java"/>
+	<classpathentry kind="src" path="notification/src"/>
+	<classpathentry kind="src" path="projeto-java/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

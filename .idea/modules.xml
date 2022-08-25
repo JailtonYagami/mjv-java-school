@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/agua-luz-core/agua-luz-core.iml" filepath="$PROJECT_DIR$/agua-luz-core/agua-luz-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agua-luz-notificacao/agua-luz-notificacao.iml" filepath="$PROJECT_DIR$/agua-luz-notificacao/agua-luz-notificacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colecoes/colecoes.iml" filepath="$PROJECT_DIR$/colecoes/colecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-jdbc-aluno/java-jdbc-aluno.iml" filepath="$PROJECT_DIR$/java-jdbc-aluno/java-jdbc-aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mjv-java-school-main.iml" filepath="$PROJECT_DIR$/mjv-java-school-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification/notification.iml" filepath="$PROJECT_DIR$/notification/notification.iml" />
+    </modules>
+  </component>
+</project>
